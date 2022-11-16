@@ -1,6 +1,6 @@
 <h2> Hi, I'm Victor Torres!</h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Developer at <a href="https://vedrunasevilla.org/">Santa Joaquina de Vedruna Sevilla</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer at <a href="https://www.ilerna.es/">Ilerna Sevilla</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>Microcomputer Systems and Network technician at <a href="https://www.iesalarifes.es/">Alarifes Ruiz Florindo </a><img src="https://media.giphy.com/media/eIAopzF9lGaYPClAHa/giphy.gif" width="30"><br>
+<img align='right' src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" width="230">
+<p><em>Software Developer at <a href="https://vedrunasevilla.org/">Santa Joaquina de Vedruna Sevilla</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer at <a href="https://www.ilerna.es/">Ilerna Sevilla</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>Microcomputer Systems and Network technician at <a href="https://www.iesalarifes.es/">Alarifes Ruiz Florindo </a><img src="https://media.giphy.com/media/eIAopzF9lGaYPClAHa/giphy.gif" width="30">
 </em></p>
 
 
