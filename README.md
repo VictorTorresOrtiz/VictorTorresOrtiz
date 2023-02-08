@@ -1,6 +1,7 @@
 <h2> Hi, I'm Victor Torres!</h2>
 <img align='right' src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" width="230">
-<p><em>Deegre in Software Developer at <a href="https://vedrunasevilla.org/">Santa Joaquina de Vedruna Sevilla</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Degree in Web Developer at <a href="https://www.ilerna.es/">Ilerna Sevilla</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>Degree in Microcomputer Systems and Network technician at <a href="https://www.iesalarifes.es/">Alarifes Ruiz Florindo </a><img src="https://media.giphy.com/media/eIAopzF9lGaYPClAHa/giphy.gif" width="30">
+<p><em>Deegre in Software Developer at <a href="https://vedrunasevilla.org/">Santa Joaquina de Vedruna Sevilla</a></br>Degree in Web Developer at <a href="https://www.ilerna.es/">Ilerna Sevilla</a>
+ <br>Degree in Microcomputer Systems and Network technician at <a href="https://www.iesalarifes.es/">Alarifes Ruiz Florindo </a>
 </em></p>
 
 
@@ -23,6 +24,6 @@ const victor = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b></em>
+<em><b>I love connecting with different people</b></em>
 
 ---
