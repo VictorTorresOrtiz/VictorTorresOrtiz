@@ -14,7 +14,7 @@
 ```javascript
 const victor = {
   pronouns: "Torres" | "Ortiz",
-  code: [Javascript, Bootstrap, HTML, CSS, Mysql, PHP, Java],
+  code: [Javascript, Bootstrap, HTML, CSS, Mysql, Laravel, Java, React, React Native, Docker, NodeJS],
   tools: [Laravel, Docker, GIT],
   languages: {
                         English: "Intermediate",
